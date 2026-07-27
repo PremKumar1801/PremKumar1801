@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Prem Kumar — Aspiring Software Development Engineer" src="light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+  <img alt="Prem Kumar — Aspiring Software Development Engineer" src="./assets/light.svg" width="100%">
 </picture>
 
 <br/>
@@ -113,21 +113,6 @@ I'm a final-year Computer Science student at **VIT-AP University**, India, worki
 
 <br/>
 
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PremKumar1801&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=3b82f6&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=PremKumar1801&theme=tokyonight&hide_border=true&background=00000000&ring=8b5cf6&fire=3b82f6&currStreakLabel=c9d1d9"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremKumar1801&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=c9d1d9"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PremKumar1801&theme=tokyo-night&hide_border=true&bg_color=00000000&color=8b5cf6&line=3b82f6&point=c9d1d9" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=PremKumar1801&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="100%"/>
-
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=PremKumar1801&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
 
 </div>
@@ -197,15 +182,6 @@ An AI-powered platform built to help engineering students with learning, career 
 
 ## Contribution Activity
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PremKumar1801/PremKumar1801/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PremKumar1801/PremKumar1801/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/PremKumar1801/PremKumar1801/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
 
 > **Setup note:** the snake animation above renders once you add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to this repository. It generates the `output/github-contribution-grid-snake*.svg` files automatically on a schedule — see the action's README for the two-minute setup.
 
@@ -399,13 +375,6 @@ Vehicle listings · Booking flow · Full stack architecture
 
 <br/>
 
-### 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PremKumar1801&show_icons=true&bg_color=00000000&title_color=0A84FF&icon_color=0A84FF&text_color=F5F5F7&border_color=2C2C2E&border_radius=10" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PremKumar1801&layout=compact&bg_color=00000000&title_color=0A84FF&text_color=F5F5F7&border_color=2C2C2E&border_radius=10" height="165"/>
-</p>
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=PremKumar1801&theme=dark&hide_border=true&background=00000000&ring=0A84FF&fire=BF5AF2&currStreakLabel=F5F5F7&sideLabels=98989D&dates=98989D" alt="GitHub Streak"/>
 </p>
@@ -418,11 +387,6 @@ Vehicle listings · Booking flow · Full stack architecture
 
 <br/>
 
-### 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PremKumar1801&bg_color=00000000&color=F5F5F7&line=0A84FF&point=BF5AF2&area=true&hide_border=true" width="100%"/>
-</p>
 
 <br/>
 
